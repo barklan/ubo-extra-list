@@ -1,0 +1,14 @@
+! Title: April Hamer's extra
+! Homepage: https://github.com/barklan/ubo-extra-list
+
+translate.google.com###gb
+translate.google.com##.VjFXz
+translate.google.com##.cWQYBc
+translate.google.com##.VlPnLc
+translate.google.com##.a88hkc
+translate.google.com##.nYkDR
+translate.google.com##.hgbeOc
+
+feedly.com##.TopHeaderBar
+
+vk.com###main_feed
