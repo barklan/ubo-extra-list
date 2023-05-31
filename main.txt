@@ -1,5 +1,5 @@
 ! Title: April Hamer's extra
-! Version: 2
+! Version: 3
 ! Homepage: https://github.com/barklan/ubo-extra-list
 
 translate.google.com###gb
@@ -14,4 +14,4 @@ feedly.com##.TopHeaderBar
 
 vk.com###main_feed
 
-trello.com##div[data-desktop-id="header"]:matches-path(/b/)
+trello.com##div[data-desktop-id="header"]:matches-path(/b/|/c/)
